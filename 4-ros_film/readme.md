@@ -16,4 +16,7 @@
 ## Библиотеки
 
 - pandas
+- matplotlib
+- seaborn
+- numpy
 
