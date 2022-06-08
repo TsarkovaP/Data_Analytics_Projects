@@ -11,6 +11,11 @@
 
 ## Библиотеки
 - pandas
-- pymystem3
-- collections
+- datetime 
+- numpy 
+- matplotlib 
+- seaborn 
+- math
+- scipy.stats 
+
 
